@@ -17,7 +17,7 @@
 
         <premain>bz.pock.agent.config.LogAgent</premain>
 
-        <bytebuddy.version>0.7.7</bytebuddy.version>
+        <bytebuddy.version>1.0.0</bytebuddy.version>
     </properties>
 
     <dependencies>
