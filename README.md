@@ -1,4 +1,4 @@
-# Dependency Injection Java Agent
+# Logger Java Agent
 
 This java agent helps you define logger in application.
 
